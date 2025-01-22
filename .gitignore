@@ -34,3 +34,5 @@ report.xml
 # IDEs
 .idea
 
+# Auto generated version
+slkspec/_version.py
